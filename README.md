@@ -26,7 +26,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/codefolder-landing-page.git
+git clone https://github.com/Ghost91202/codeFolder-landig-page.git
 Navigate to the project directory:
 
 bash
@@ -46,7 +46,7 @@ Submit a pull request with a description of your changes.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Replace "your-username" with your GitHub username, and customize the README to suit your specific project. Include relevant information about how to install, run, and use the landing page. Also, make sure to add a proper license file (e.g., LICENSE) and update the license section in the README with the appropriate license information.
+
 
 
 
