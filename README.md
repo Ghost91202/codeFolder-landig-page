@@ -1,5 +1,5 @@
 # codeFolder-landig-page
-codeFolder-landing-page  
+ 
 ![Screenshot (218)](https://github.com/Ghost91202/codeFolder-landig-page/assets/127385706/3b4db089-76a0-498e-a958-30ec178102f7)
 CodeFolder Landing Page
 This is a simple landing page project built using HTML, CSS, and JavaScript.
